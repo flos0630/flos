@@ -1,0 +1,65 @@
+.s1{
+    float: right;
+    font-size: 12px;
+}
+.img1{
+    position: relative ;
+    top: 4px;
+}
+a{
+    text-decoration-line: none;
+    color: #405a91;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    margin: auto;
+    height: 2000px;
+    width: 972px;
+}
+.s2{
+    border: 1px #d3dad5 solid;
+    padding: 4px;
+    margin: 4px;
+    width: 800px;
+    margin-left: 85px;
+    border-right: none;
+    border-left: none;
+    text-align: center;
+    font-size: 18px;
+}
+.s4{
+    text-align: center;
+}
+.fang{
+    color: #06329b;
+    font-size: 40px;
+    font-weight: bold;
+    padding-right: 20px;
+}
+.fangying{
+    color: #06329b;
+    font-size: 30px;
+    font-weight: bold;
+}
+.com{
+    color: #a7cbff;
+    font-size: 30px;
+    font-weight: bold;
+    padding-right: 20px;
+}
+.xinxiku{
+    color: #a4c8e0;
+    font-size: 20px;
+}
+.s3{
+    margin-left: 75px;
+}
+.s5{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
